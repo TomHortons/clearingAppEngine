@@ -1,1 +1,2 @@
-gcloud app deploy app.yaml 
+`cd emptyAppEngine`
+`gcloud app deploy app.yaml `
